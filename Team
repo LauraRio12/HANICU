@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>HomeAfterNICU</title>
+    <meta name= "viewport" content = "width=device-width, initial-scale=1"/>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Shadows+Into+Light" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type ="text/css" href="style.css">
+  </head>
+  <body>
+
+    <header>
+
+      <div class= "logo-container">
+        <img src= "images/logoH.png" alt= "the HomeAfterNICU logo" width="125"/>
+        </div>
+        <nav>
+          <ul>
+            <li> <a class= "current" href= "About.html"> About </a></li>
+            <li> <a href= "Project.html"> Project </a></li>
+            <li> <a href= "Team.html"> Team </a></li>
+         </ul>
+        </nav>
+
+      </header>
+<main>
+<div class= "img-txt-container">
+  <div class= "img-container">
+    <img src= "images/moi.png" alt="profile Laura Rio" width="293">
+  </div>
+  <div class= "txt-container-team">
+
+    <h2>  Laura Rio, PhD</h2>
+    <h4> Lead investigator </h4>
+    <h5> <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Rio%20L%5BAuthor%5D&cauthor=true&cauthor_uid=30612596"> Research Articles</a> </h5>
+
+    <p> Dr Laura Rio is a medical scientist leading projects that include innovative solutions to improve healthcare. She earned her PhD in Life Sciences from the University of Lausanne in 2014 with a multidisciplinary project that tackled diagnostic and prevention of antibiotic resistant bacteria. Since 2015, she is a Research Associate at the Lausanne University Hospital and a Lecturer at the University of Lausanne Switzerland and focuses on implementing pioneering solutions to the clinics.She is developping the HomeAfterNICU application that will help parents who are transitioning from NICU to home. </p>
+  </div>
+</div>
+
+    <div class= "img-txt-container">
+      <div class= "img-container">
+        <img src= "images/Anne.jpg" alt="profile Anne-Sylvie Ramelet" width="293"/>
+      </div>
+      <div class= "txt-container-team">
+        <h2> Prof Anne-Sylvie Ramlet </h2>
+        <h4> Lead investigator </h4>
+        <h5> <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Ramelet+anne-sylvie"> Research Articles</a> </h5>
+
+        <p> Experienced Professor of Nursing with a demonstrated history of working in the hospital & health care industry. Skilled in Pediatric and Critical Care Nursing, Lecturing in masters and doctoral programmes, and Clinical Research. She has lead several research projects in the NICU and pediatric departments. She is mainly interested in projects revolving around family and patient centered care. With a national and international experience and network she will deploy the application around the World. She is also actively involved in several associations in research and development of nursing research. </p>
+      </div>
+    </div>
+
+    <div class= "img-txt-container">
+      <div class= "img-container">
+        <img src= "images/chloe.jpg" alt="profile Chloe" width="293"/>
+      </div>
+      <div class= "txt-container-team">
+        <h2> Chloe Ducret </h2>
+        <h4> Research collaborator </h4>
+        <p> Nurse in the NICU and owner of a Master in nursing. In 2018 she was involved in a research project evaluating readiness to go home in mothers whose infant was hospitalized in the NICU. Mothers were asked if they felt ready to return home and how well they were taught in the hospital, in the days preceding discharge. One month post-discharge, mothers received a phone call asking them if they had had unplanned use of health services in the past month. In this study it has been demonstrated that despite mothers feelt mostly ready to go home after NICU, they still felt unsupported once at home and tended to overuse the health system in an unplanned manner. Main reasons for use of the health system were respiratory and digestive issues in the neonates.</p>
+      </div>
+    </div>
+
+</main>
+<footer>
+  <div class="copyright" >
+  <p> 2019 © HomeAfterNICU </p>
+</div>
+<div class="div-icons-container">
+  <ul class = "icons-container">
+              <li>
+                <!-- facebook icon -->
+                <a class="fa fa-facebook" ></a>
+              </li>
+              <li>
+                <!-- twitter icon -->
+                <a class="fa fa-twitter" ></a>
+              </li>
+              <li>
+                <!-- linkedin icon -->
+                <a class="fa fa-linkedin" href="https://www.linkedin.com/in/laura-rio-87a30344/"></a>
+              </li>
+              <li>
+                <!-- google icon -->
+                <a class="fa fa-google"></a>
+              </li>
+            </ul>
+          </div>
+</footer>
+
+
+</body>
+</html>
